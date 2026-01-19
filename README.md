@@ -36,6 +36,7 @@ in early detection of Alzheimer’s disease from MRI scans.
 2. Apply data normalization and augmentation
 3. Train ResNet18-based classifier
 4. Evaluate performance using accuracy and confusion matrix
+<img width="1821" height="538" alt="image" src="https://github.com/user-attachments/assets/754d8ab4-5419-46ab-9587-b21022c492bb" />
 
 ---
 
